@@ -5,17 +5,17 @@
 The purpose of this project is to perform the exploratory data analysis (EDA) on Google Play Store Dataset with Numpy and Pandas and visualize using matplotlib and seaborn.
 
 
-##Operations Performed:
+## Operations Performed:
 - **Importing Data**
 - **Data Cleaning**
 - **Exploring and performing feature engineering**
 - **Data Visualization**
 
 
-##About Dataset:
+## About Dataset:
   The data we are going to use is a google play store data having over 10000 records and 13 columns.
 
-##Feature Information
+## Feature Information
 1. App :- Name of the App
 2. Category :- Category under which the App falls.
 3. Rating :- Application's rating on playstore
@@ -31,14 +31,31 @@ The purpose of this project is to perform the exploratory data analysis (EDA) on
 13. Android Ver :- Minimum Android Version required to run the App
 
 
-
  ## Python Libraries Used
 - **Pandas**
 - **Numpy**
 - **Seaborn**
 - **Matplotlib**
 
+## Analysis Results
+
+### Most popular app category:
+- Family
+- Games
+- Tools
+
+### Least popular app category:
+- Beatuty
+- Comics
+- Parenting
+
+### Popular product from Category:
+- Most popular game is Subway Surfers.
+- Most popular communication app is Skype.
+- Most popular productivity app is Google Drive.
+- Most popular social app is Facebook.
+
 ## Conclusion
-The analysis indicates that Airbnb is experiencing growth and offers diverse options for various customer segments. Addressing identified challenges will be crucial for sustained business success.
+The analysis reveals that app categories like Family, Games, and Tools dominate user preferences, while Beauty, Comics, and Parenting have limited appeal. Additionally, standout apps such as Subway Surfers, Skype, Google Drive, and Facebook indicate category-specific user demand for entertainment, communication, productivity, and social interaction.
 
 
