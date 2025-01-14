@@ -14,7 +14,7 @@ The purpose of this project is to perform the exploratory data analysis (EDA) on
 
 ## About Dataset:
   The data we used is a google play store data having over 10,000 records and 13 columns.
-  Dataset:(https://github.com/ArbazKhan132000/EDA-on-Google-Play-Store/blob/main/Raw%20Data/googleplaystore.csv).
+  Dataset:[Raw Data](https://github.com/ArbazKhan132000/EDA-on-Google-Play-Store/blob/main/Raw%20Data/googleplaystore.csv) 
 
 
 ## Feature Information
