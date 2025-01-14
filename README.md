@@ -5,17 +5,17 @@
 The purpose of this project is to perform the exploratory data analysis (EDA) on Google Play Store Dataset with Numpy and Pandas and visualize using matplotlib and seaborn.
 
 
-Operations Performed:
+##Operations Performed:
+- **Importing Data**
+- **Data Cleaning**
+- **Exploring and performing feature engineering**
+- **Data Visualization**
 
-    1 Importing Data
-    2 Data Cleaning
-    3 Exploring and performing feature engineering
-    4 Data Visualization
 
-About Dataset:
-The data we are going to use is a google play store data having over 10000 records and 13 columns.
+##About Dataset:
+  The data we are going to use is a google play store data having over 10000 records and 13 columns.
 
-Feature Information
+##Feature Information
 1. App :- Name of the App
 2. Category :- Category under which the App falls.
 3. Rating :- Application's rating on playstore
