@@ -14,7 +14,7 @@ The purpose of this project is to perform the exploratory data analysis (EDA) on
 
 ## About Dataset:
   The data we used is a google play store data having over 10,000 records and 13 columns.
-  Dataset:[Raw Data](https://github.com/ArbazKhan132000/EDA-on-Google-Play-Store/blob/main/Raw%20Data/googleplaystore.csv) 
+  Dataset: [Raw Data](https://github.com/ArbazKhan132000/EDA-on-Google-Play-Store/blob/main/Raw%20Data/googleplaystore.csv) 
 
 
 ## Feature Information
@@ -31,6 +31,10 @@ The purpose of this project is to perform the exploratory data analysis (EDA) on
 11. Last Updated :- Date when the App was last updated
 12. Current Ver :- Current Version of the Application
 13. Android Ver :- Minimum Android Version required to run the App
+
+## Other Files:
+ Cleaned Data : [Cleaned Data CSV file](https://github.com/ArbazKhan132000/EDA-on-Google-Play-Store/blob/main/Cleaned%20Data/Cleaned%20Google%20Play%20Store%20File.csv) , [Cleaned Data Python file](https://github.com/ArbazKhan132000/EDA-on-Google-Play-Store/blob/main/Cleaned%20Data/Data_Cleaning.ipynb)
+ EDA File : [EDA File](https://github.com/ArbazKhan132000/EDA-on-Google-Play-Store/blob/main/EDA%20Files/EDA_on_Google_Play_Store%20.ipynb)
 
 
  ## Python Libraries Used
